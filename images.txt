@@ -4,3 +4,4 @@
 #支持指定架构
 #--platform=linux/arm64 xiaoyaliu/alist
 nvidia/cuda:11.8.0-devel-ubuntu20.04
+nvidia/cuda:12.1.0-devel-ubuntu20.04
