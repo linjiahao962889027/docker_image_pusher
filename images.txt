@@ -13,6 +13,7 @@ nvidia/cuda:12.1.0-devel-ubuntu20.04
 nvidia/cuda:12.1.0-runtime-ubuntu20.04
 nvidia/cuda:12.1.0-devel-ubuntu22.04
 nvidia/cuda:12.1.0-cudnn8-devel-ubuntu22.04
+nvidia/cuda:12.1.0-cudnn8-runtime-ubuntu22.04
 nvidia/cuda:12.1.0-runtime-ubuntu22.04
 tensorflow/tensorflow:2.17.0-gpu
 ubuntu:latest
